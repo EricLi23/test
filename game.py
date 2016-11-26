@@ -1,2 +1,2 @@
-print("hollo python!")
+"GIVE ME FIVE"
 print("hello world!")
